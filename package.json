@@ -1,0 +1,19 @@
+{
+  "name": "001-bases-node",
+  "version": "1.0.0",
+  "description": "es una aplicacion para aprender a multiplicar ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "multiplicacion",
+    "tabla"
+  ],
+  "author": "Alondra Cordoba",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.5",
+    "yargs": "^16.0.4-candidate.0"
+  }
+}
